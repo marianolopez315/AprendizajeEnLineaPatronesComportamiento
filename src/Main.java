@@ -13,7 +13,7 @@ public class Main {
         // Ejemplos de solicitudes
         System.out.println("----------------------------------CoR----------------------------------");
         asistente.manejar("Problema con ejercicio de AM1",3);
-        profesor.manejar("Problema con Grafos", 2);
+        profesor.manejar("Problema con Grafos", 1);
 
     }
 }
