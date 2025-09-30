@@ -12,11 +12,10 @@ public class Main {
 
         // Ejemplos de solicitudes
         System.out.println("----------------------------------CoR----------------------------------");
-        asistente.manejar("Problema con ejercicio de AM1",3);
+        asistente.manejar("Problema con ejercicio de AM1",2);
         profesor.manejar("Problema con Grafos", 1);
 
-        System.out.println("Cambio para el commit");
-        System.out.println("segundo cambio");
+
 
     }
 }
